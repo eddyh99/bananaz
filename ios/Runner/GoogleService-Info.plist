@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139301922504-7r8scphbuduuj9acrf02j64lr465ijhe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139301922504-7r8scphbuduuj9acrf02j64lr465ijhe</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>139301922504-lbs34o1dp9ojktn4k83td0qtcqifbloa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXN3eAu6oSx3BdPE4wl79xJak0DLLXJD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139301922504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hugaf.bananaz</string>
+	<key>PROJECT_ID</key>
+	<string>bananaz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bananaz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139301922504:ios:6410d1b8a3037ab36f67fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://bananaz.firebaseio.com</string>
+</dict>
+</plist>

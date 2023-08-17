@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "800868850622",
+    "firebase_url": "https://test-1546174385497.firebaseio.com",
+    "project_id": "test-1546174385497",
+    "storage_bucket": "test-1546174385497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800868850622:android:5bf1fe6a4da4c3fa5b77ef",
+        "android_client_info": {
+          "package_name": "com.hugaf.bananaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800868850622-qmd4h1puf2bermei1esv8ll93fvo8hpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hugaf.bananaz",
+            "certificate_hash": "571a1f3a8daa2321e3db28a597b0de378f1db98f"
+          }
+        },
+        {
+          "client_id": "800868850622-4v1cv2k10k5hjrrolncuqkslqvhm27i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hugaf.bananaz",
+            "certificate_hash": "c37aa7e2d13457a1b51e40bff7b2782db09d455a"
+          }
+        },
+        {
+          "client_id": "800868850622-c1ukr64f86tj3kk7dd23b3ev33rjhaua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIEZo3i9nH5tEhHj53s6pN_aPryvqSTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800868850622-c1ukr64f86tj3kk7dd23b3ev33rjhaua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
